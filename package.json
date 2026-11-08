@@ -1,0 +1,22 @@
+{
+  "name": "campbatch5_tugas_8",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Ahmad_Khoiri",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
